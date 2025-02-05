@@ -22,9 +22,6 @@ npm (Node Package Manager)
 
 Installation
 
-Clone the repository:
-
-git clone https://github.com/your-username/travel-tracker.git
 cd travel-tracker
 
 Install dependencies:
